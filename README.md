@@ -1,4 +1,4 @@
-# Sentiment_Analysis_Bengali_Dataset
+# Sentiment Analysis Bengali(Bangla) Dataset
 
 The repository contains 3307 Negative comments (inside negative directory) and 8500 Positive comments (inside positive directory) collected and manually annotated from Youtube Bengali drama. Each comment is formated as -
 
